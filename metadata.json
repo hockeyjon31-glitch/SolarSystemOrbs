@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Spheres: Moon, Mars, Venus, Io & Titan",
+  "description": "An interactive 3D revolving celestial sphere explorer featuring the Moon, Mars, Venus, Io, and Titan with surface topography, atmospheric shaders, rotation dynamics, and geological exploration points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
